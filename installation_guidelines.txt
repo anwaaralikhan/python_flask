@@ -1,0 +1,10 @@
+%PATH% inclusion
+
+1-  pip
+2-  C:\Python\Python37\Scripts
+
+
+# How to install requirements.txt
+
+> For windows when you install a package you type:
+> python -m pip install -r requirements.txt
